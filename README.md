@@ -12,5 +12,5 @@ The steps of the project:
 - Make a new Discriminator
 - Use transfer learning to train the new model
 
-In the project, there will be in the future Google Colab Python Notebooks, and an organized filesystem
+Project laboratory paper: .pdf in the repository
 
